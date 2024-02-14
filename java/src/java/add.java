@@ -7,5 +7,10 @@ public class add {
 	{
 	add=a+b;
 	}
+	int sub;
+	{
+	sub=a-b;
+	}
+	
 
 }
